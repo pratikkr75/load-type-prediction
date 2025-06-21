@@ -194,9 +194,7 @@ Model saved as: `xgboost_tuned_model.pkl`
 
 * The full workflow is designed to be modular and interpretable.
 * Future improvements can involve:
-  * SMOTE or class weights for handling class imbalance
   * Feature selection based on importance or SHAP
-  * Ensemble with stacking
 * All scripts are compatible with Google Colab + Drive setup.
 
 ---
@@ -212,4 +210,4 @@ Model saved as: `xgboost_tuned_model.pkl`
 
 **Maintainer:** Pratik Kumar  
 **Institute:** NIT Silchar  
-**Task Deadline:** June 2025
+**Task Deadline:** 23rd June 2025
